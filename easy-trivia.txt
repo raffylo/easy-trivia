@@ -1,8 +1,1 @@
-{
-  "response_code":0,"results":[
-    {"category":"Science: Computers","type":"boolean","difficulty":"easy","question":"RAM stands for Random Access Memory.","correct_answer":"True","incorrect_answers":["False"]},
-    {"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"Kanye West at 2009 VMA&#039;s interrupted which celebrity?","correct_answer":"Taylor Swift","incorrect_answers":["MF DOOM","Beyonce","Beck"]},
-    {"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"In what year was &quot;Antichamber&quot; released?","correct_answer":"2013","incorrect_answers":["2012","2014","2011"]
-    }
-  ]
-}
+{"response_code":0,"results":[{"category":"Science: Computers","type":"boolean","difficulty":"easy","question":"RAM stands for Random Access Memory.","correct_answer":"True","incorrect_answers":["False"]}, {"category":"Entertainment: Music","type":"multiple","difficulty":"easy","question":"Kanye West at 2009 VMA&#039;s interrupted which celebrity?","correct_answer":"Taylor Swift","incorrect_answers":["MF DOOM","Beyonce","Beck"]},{"category":"Entertainment: Video Games","type":"multiple","difficulty":"easy","question":"In what year was &quot;Antichamber&quot; released?","correct_answer":"2013","incorrect_answers":["2012","2014","2011"]}]}
